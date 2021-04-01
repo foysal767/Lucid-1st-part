@@ -227,6 +227,9 @@ margin: auto;
 }
 .beautiful .details p i{
 color: #008ed6;
+    width: 15px;
+    height: 15px;
+    margin: 15px;
 }
 .details .icon{
     width: 30px;
